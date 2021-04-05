@@ -1,0 +1,21 @@
+Aluno: Fernando Luigi Cunha Dipp
+
+INFORMAÇÕES
+O trabalho pode ser feito individualmente ou em dupla.
+Pode ser consultado todo o material.
+Dentro do projeto, criar um arquivo chamado NOMES.TXT contendo todos os integrantes 
+
+O objetivo do trabalho é desenvolver uma aplicação web, para uma loja de PetShop. 
+O objetivo é criar um módulo que gerencie o atendimento da empresa. 
+Dessa forma, é necessário implementar um CRUD para as operações abaixo.
+
+Cadastramento do atendimento.
+Deve haver um formulário para cadastrar o atendimento com os campos abaixo:
+o nome do dono do animal
+nome do bixo
+raça do bixo.
+Qual tipo de serviço (banho, tosa, veterinária).
+Ao salvar, o sistema necessita gravar os dados em memória para futuramente poder realizar outras operações. 
+
+Listagem do atendimento
+Na listagem, apresentar todo os dados que estão na tela do cadastramento
